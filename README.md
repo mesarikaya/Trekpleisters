@@ -5,17 +5,26 @@
 
 ## Tech. Stack:
 ► Back-end: Firebase Functions
+<br/>
 ► Database: No persistent data storage. Only Asnc sstorage to save on user's mobile phone
-► Front-end: JAvascript + ReactNative + Context API
+<br/>
+► Front-end: Javascript + ReactNative + Context API
 
 ## General Functionalities:
 ► Search locations and get a list of available destinations in card view
+<br/>
 ► Adding locations to favorites
+<br/>
 ► Getting a list of favorites
+<br/>
 ► Seeing available destinations on Google Maps view
+<br/>
 ► Ability to click and navigate to the destination details from Google Maps view
+<br/>
 ► Ability Sign/Out via Firebase Authentication
+<br/>
 ► Ability to take profile pictures
+<br/>
 ► Ability to create a shopping basket and make payments (test payments) via Stripe
 
 # Views
@@ -58,12 +67,6 @@
 ## Payment with Stripe API
 ![alt text](https://github.com/mesarikaya/Trekpleisters/blob/main/product_snapshots/Screenshot_2023-04-01-14-48-41-33_f73b71075b1de7323614b647fe394240.jpg)
 
-## PAyment Processing and state handling
+## Payment Processing and state handling
 ![alt text](https://github.com/mesarikaya/Trekpleisters/blob/main/product_snapshots/Screenshot_2023-04-01-14-48-46-21_f73b71075b1de7323614b647fe394240.jpg)
-https://github.com/mesarikaya/Trekpleisters/blob/main/product_snapshots/Screenshot_2023-04-01-14-48-50-37_f73b71075b1de7323614b647fe394240.jpg
-
-
-
-
-
-
+![alt text](https://github.com/mesarikaya/Trekpleisters/blob/main/product_snapshots/Screenshot_2023-04-01-14-48-50-37_f73b71075b1de7323614b647fe394240.jpg)
