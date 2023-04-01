@@ -3,6 +3,9 @@
 # Mobile App for Searching attractive social locations
 ## Also has the experimental functionality to make payments with Stripe
 
+**View on Expo:**
+exp://exp.host/@messarikaya/FoodLocal?release-channel=default
+
 ## Tech. Stack:
 ► Back-end: Firebase Functions
 <br/>
@@ -32,7 +35,7 @@
 - Many components are reused in several page views
 
 ## Standard home page 
-![alt text](https://github.com/mesarikaya/Trekpleisters/blob/main/product_snapshots/Screenshot_2023-04-01-14-45-51-20_f73b71075b1de7323614b647fe394240.jpg)
+![alt text](https://github.com/mesarikaya/Trekpleisters/blob/main/product_snapshots/Screenshot_2023-04-01-14-45-51-20_f73b71075b1de7323614b647fe394240.jpg) 
 
 ## Sign-in Screen
 ![alt text](https://github.com/mesarikaya/Trekpleisters/blob/main/product_snapshots/Screenshot_2023-04-01-14-45-58-17_f73b71075b1de7323614b647fe394240.jpg)
